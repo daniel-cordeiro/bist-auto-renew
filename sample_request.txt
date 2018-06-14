@@ -1,0 +1,37 @@
+- Corpo do Pedido
+    draftResponse: %5Bnull%2Cnull%2C%22-3285304398097547019%22%5D%0D%0A
+    entry.1228452486: Nome
+    entry.1880669440: Biblioteca+do+Taguspark
+    entry.335142586: ist+tecnico+id
+    entry.360213064: Autor
+    entry.475555996: Titulo+Obra
+    entry.6150132: email%40mail.com
+    fbzx: -3285304398097547019x
+    fvv: 1
+    pageHistory: 0
+
+
+- Cabeçalhos de Pedido
+    Accept: text/html, application/xhtml+xml, application/xml; q=0.9, */*; q=0.8
+    Accept-Encoding: gzip, deflate, br
+    Accept-Language: pt-PT, pt; q=0.8, en-US; q=0.5, en; q=0.3
+    Cache-Control: max-age=0
+    Content-Length: 287
+    Content-Type: application/x-www-form-urlencoded
+    Cookie: S=spreadsheet_forms=3m8FozAswJ49uLA040rYawmLkrCtjGDV; NID=132=W1kMJAzJqIpLdE9XO4gOynA8TO3jIlYf0TaKyhLQ8zO3yu89fcZvXm7-WXVqPRSa4VUzwjtgLW8k3Un2d2BxdCprKQE9Fu9Sxtpszc6w9iM11HFlm0nKIY23wykA8NN8
+    Host: docs.google.com
+    Referer: https://docs.google.com/forms/d/e/1FAIpQLSdVwcxOy1qDiEEoNItOvMvwEA851Z0I9uEcxEeWLzLn-6HhSQ/viewform?fbzx=-3285304398097547300
+    Upgrade-Insecure-Requests: 1
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+- Cabeçalhos de Resposta
+    alt-svc: quic=":443"; ma=2592000; v="43,42,41,39,35"
+    cache-control: no-cache, no-store, max-age=0, must-revalidate
+    content-encoding: gzip
+    content-type: text/html; charset=utf-8
+    date: Wed, 13 Jun 2018 23:31:21 GMT
+    expires: Mon, 01 Jan 1990 00:00:00 GMT
+    pragma: no-cache
+    server: GSE
+    x-content-type-options: nosniff
+    x-robots-tag: noindex, nofollow, nosnippet
+    x-xss-protection: 1; mode=block
