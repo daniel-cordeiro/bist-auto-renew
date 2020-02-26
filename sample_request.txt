@@ -1,3 +1,4 @@
+CLONE RENOVAR RESERVA
 - Corpo do Pedido
     draftResponse: %5Bnull%2Cnull%2C%22-3285304398097547019%22%5D%0D%0A
     entry.1228452486: Nome
@@ -9,7 +10,6 @@
     fbzx: -3285304398097547019x
     fvv: 1
     pageHistory: 0
-
 
 - Cabeçalhos de Pedido
     Accept: text/html, application/xhtml+xml, application/xml; q=0.9, */*; q=0.8
@@ -35,3 +35,20 @@
     x-content-type-options: nosniff
     x-robots-tag: noindex, nofollow, nosnippet
     x-xss-protection: 1; mode=block
+
+RENOVAR RESERVA - IST - LIVE
+POST URL: https://docs.google.com/forms/u/0/d/e/1FAIpQLSdngKwsZ-aGdvVxR8ljHKsVDF_Un4DfZYgPML4VqhN9_g6a4A/formResponse
+RESPONSE REFERER: https://docs.google.com/forms/d/e/1FAIpQLSdngKwsZ-aGdvVxR8ljHKsVDF_Un4DfZYgPML4VqhN9_g6a4A/viewform
+
+-Corpo do Pedido
+    entry.158648476=Daniel+Cordeiro
+    entry.369759716=ist188191
+    entry.2057545699=Sinais+e+Sistemas
+    entry.1471477244=Isabel+Lourtie
+    entry.1220862687=Taguspark
+    entry.287241741=daniel.cordeiro%40tecnico.ulisboa.pt
+    fvv=1
+    draftResponse=%5Bnull%2Cnull%2C%228490780605569897204%22%5D%0D%0A
+    pageHistory=0
+    fbzx=8490780605569897204
+
